@@ -24,7 +24,4 @@ A responsive and visually appealing clone of the Netflix web app built using mod
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/netflix-clone.git
-cd netflix-clone
-npm install
-npm start
+
