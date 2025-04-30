@@ -17,9 +17,7 @@ A responsive and visually appealing clone of the Netflix web app built using mod
 - **API:** TMDb API *(optional)*
 - **Authentication:** Firebase / Local auth *(optional)*
 
-## 📷 Screenshots
 
-*(Add some screenshots here)*
 
 
 
