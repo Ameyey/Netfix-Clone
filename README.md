@@ -21,7 +21,7 @@ A responsive and visually appealing clone of the Netflix web app built using mod
 
 *(Add some screenshots here)*
 
-## 📦 Installation
 
-```bash
+
+
 
